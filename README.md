@@ -1,1 +1,40 @@
-# site-escola
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Início - COLEGA</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="reset.css" />
+  </head>
+  <body>
+    <header class="cabecalho">
+      <img
+        class="imagem-cabecalho"
+        src="guilherme-logo.png"
+        alt="Logo Colégio Guilherme de Almeida"
+      />
+      <ul class="lista-cabecalho">
+        <li class="item-lista-cabecalho">Escola</li>
+        <li class="item-lista-cabecalho">Alunos</li>
+        <li class="item-lista-cabecalho">Contato</li>
+      </ul>
+    </header>
+    <section id="inicio">
+      <div class="div-inicio">
+        <h1 class="titulo-inicio">Sobre a Escola</h1>
+        <p class="p-inicio">O propósito do Colégio Integral é envolver o aluno na pluralidade de desafios cognitivos, emocionais, e consequentemente, ajudá-lo a construir competências para seguir aprendendo vida afora.</p>
+        <p class="p-inicio">A escola é assim encarada como um lócus de socialização do conhecimento, como um processo de construção permanente da História da Humanidade, das Ciências, da Arte, da Tecnologia e das diversas formas de apreensão da cultura.</p>
+        <p class="p-inicio">Nosso objetivo é levar o educando da Educação Infantil ao Ensino Médio, o Colégio Integral não mede esforços para buscar o aluno em seus diferentes momentos de aprendizagem. Nesta relação, aluno e professor lançam-se a novos desafios e juntos desenvolvem competências por meio da cooperação, construindo o conhecimento e transformando-se em aprendizes um do outro.</p>
+      </div>
+      <img src="formula-bro.png" alt="Ilustração Início"> 
+    </section>
+
+  <section class="estudantes">
+    <h2 class="titulos-estudantes"> Quem são nossos estudantes?></h2>
+  <img class="imagem-escola" scr="modelo.jpg" alt="Foto">
+  </section>
+
+  </body>
+</html>
